@@ -13,7 +13,7 @@ let user = global.db.data.users[who]
 m.reply(`⚠️ 𝐀𝐕𝐕𝐄𝐑𝐓𝐈𝐌𝐄𝐍𝐓𝐎 ⚠️ *ALTO CONTENUTO CRINGE, CONTIENITI* ⚠️`)
         } else if (warn == war) {
             global.db.data.users[who].warn = 0
-            m.reply(`⛔ 𝐔𝐓𝐄𝐍𝐓𝐄 𝐑𝐈𝐌𝐎𝐒𝐒𝐎 𝐃𝐎𝐏𝐎 𝟑 𝐀𝐕𝐕𝐄𝐑𝐓𝐈𝐌𝐄𝐍𝐓𝐈, *ERA STUPIDO*`)
+            m.reply(`⛔ 𝐔𝐓𝐄𝐍𝐓𝐄 𝐑𝐈𝐌𝐎𝐒𝐒𝐎 𝐃𝐎𝐏𝐎 𝟑 𝐀𝐕𝐕𝐄𝐑𝐓𝐈𝐌𝐄𝐍𝐓𝐈, *ERA TROPPO CRINGE*`)
             await time(1000)
         }
 }
