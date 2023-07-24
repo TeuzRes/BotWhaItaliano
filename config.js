@@ -14,10 +14,10 @@ global.suittag = ['393209387337']
 global.prems = ['393209387337'] 
 global.reportes_solicitudes = ['393209387337']
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
-global.wm = '★ცơɬῳɧąıɬą ★'
-global.igfg = '★ცơɬῳɧąıɬą★'
+global.packname = '💫𝓥𝓮𝓻𝓲𝓽𝓪𝓼𝓑𝓸𝓽💫'
+global.author = '💫𝓥𝓮𝓻𝓲𝓽𝓪𝓼𝓑𝓸𝓽💫'
+global.wm = '💫𝓥𝓮𝓻𝓲𝓽𝓪𝓼𝓑𝓸𝓽💫'
+global.igfg = '💫𝓥𝓮𝓻𝓲𝓽𝓪𝓼𝓑𝓸𝓽💫'
 global.wait = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -38,7 +38,7 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ ცơɬῳɧąıɬą`
-global.gt = '★ცơɬῳɧąıɬą★'
+global.gt = '💫𝓥𝓮𝓻𝓲𝓽𝓪𝓼𝓑𝓸𝓽💫'
 global.mysticbot = '★ცơɬῳɧąıɬą★'
 global.md = 'https://github.com/Fabri115/botwhaita'
 global.mysticbot = 'https://github.com/Fabri115/botwhaita'
