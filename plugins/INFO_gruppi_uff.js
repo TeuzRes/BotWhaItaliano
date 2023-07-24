@@ -6,7 +6,7 @@ let str = `
 https://github.com/fabriziodee
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ✅ *INSTAGRAM*
-https://www.instagram.com/_fabri115/
+https://instagram.com/matteo_lauriola_
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ✅ *TIKTOK*
 https://www.tiktok.com/@3r1z10
