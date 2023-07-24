@@ -20,7 +20,7 @@ let handler = async (m, { conn, participants, usedPrefix, command }) => {
   const durationMs = duration * 60000
 
   users[who].muto = true
-  m.reply(`*Mutato* 𝐜𝐨𝐧 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐨 ✓ *tutti i messaggi inviati ti verranno eliminati. soffri.* Durata: ${duration} min`)
+  m.reply(`*Mutato* 𝐜𝐨𝐧 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐨 ✓ *tutti i messaggi inviati ti verranno eliminati. soffri in silenzio.* Durata: ${duration} min`)
 
   // Imposta il timer in base alla durata specificata
   setTimeout(() => {
