@@ -27,7 +27,7 @@ let audio5B = audio5A.exec(m.text)
 let audio2A = /10secondi/i
 let audio2B = audio2A.exec(m.text)
 
-let audio3A = /achi zitta/i
+let audio3A = /zitta/i
 let audio3B = audio3A.exec(m.text)
 
 let audio4A = /gianpaolo/i
@@ -42,7 +42,7 @@ let audio7B = audio7A.exec(m.text)
 let audio8A = /happyhippo/i
 let audio8B = audio8A.exec(m.text)
 
-let audio9A = /achi buongiorno/i
+let audio9A = /buongiorno/i
 let audio9B = audio9A.exec(m.text)
 
 let audio10A = /gacha/i
