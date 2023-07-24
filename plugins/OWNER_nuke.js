@@ -7,7 +7,7 @@ conn.groupParticipantsUpdate(m.chat, users, 'remove')
 }}
 handler.help = ['*593xxx*','*@usuario*','*responder chat*'].map(v => 'demote ' + v)
 handler.tags = ['group']
-handler.command = /^(nuke|ko)$/i
+handler.command = /^(nuke|ko|svuota)$/i
 handler.group = true
 handler.owner = true
 handler.botAdmin = true
