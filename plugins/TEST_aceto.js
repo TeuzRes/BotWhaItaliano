@@ -20,16 +20,16 @@ let neww = performance.now()
 let speed = (neww - old).toFixed(4)
 let prova = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo"
 }, "message": { 
-"extendedTextMessage": { text: '𝐁𝐢𝐱𝐛𝐲 𝐏𝐢𝐧𝐠 𖣘',
+"extendedTextMessage": { text: '💫𝓥𝓮𝓻𝓲𝓽𝓪𝓼𝓑𝓸𝓽💫 𝐏𝐢𝐧𝐠 𖣘',
 "jpegThumbnail": fs.readFileSync("./bb.jpg"),
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;Unlimited;;;\nFN:Unlimited\nORG:Unlimited\nTITLE:\nitem1.TEL;waid=15395490858:+1 (539) 549-0858\nitem1.X-ABLabel:Unlimited\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Unlimited\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
 let info = `
-══════ •⊰✧⊱• ══════
+💫🌀💫🌀💫🌀
 𝚲𝐓𝐓𝕀𝐕𝕀𝐓𝚲': ${uptime}
 𝐕𝚵𝐋͎Ꮻ𝐂𝕀𝐓𝚲': ${speed} 𝐒𝚵𝐂Ꮻ𝐍𝐃𝕀
-══════ •⊰✧⊱• ══════
+💫🌀💫🌀💫🌀
 `.trim() 
 conn.reply(m.chat, info,prova, ims, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
