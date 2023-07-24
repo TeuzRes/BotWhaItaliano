@@ -23,7 +23,7 @@ let sn = createHash('md5').update(who).digest('hex')
 
  • *NOTA :* 
  *_I msg vengono calcolati da quando il bot è attivo_*
-                ᵉᵈᶦᶻ ᴹᵒᵒⁿᶜˡᵒᵘᵈˢ
+                🔱ꪶ͢≋🌀𝕍𝕒𝕝𝕙𝕒𝕝𝕝𝕒🌀ꪶ͢≋🔱
 
 ┗━━✯✯✯✯✯✯✯✯✯━━┛
 `
