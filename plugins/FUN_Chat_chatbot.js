@@ -21,13 +21,13 @@ if (chat.chatbot) {
 let texto1A = /fra/i
 let texto1B = texto1A.exec(m.text)
 
-let texto2A = /matteo/teo/matte /i
+let texto2A = /matteo/teo/matte/i
 let texto2B = texto2A.exec(m.text)
 
-let texto3A = /marty/meli /i
+let texto3A = /marty/meli/i
 let texto3B = texto3A.exec(m.text)
 
-let texto4A = /tod/ste/stefano/i
+let texto4A = /tod/ste/stefano/matte/teo/matteo/i
 let texto4B = texto4A.exec(m.text)
 
 let texto5A = /ping/i
